@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.bnsm</string>
+				<string>corp.ncsoft.bnsm.msdk2</string>
 				<key>bundle-version</key>
 				<string>0.7.0.4</string>
 				<key>kind</key>
