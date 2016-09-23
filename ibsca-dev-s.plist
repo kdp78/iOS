@@ -11,6 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
+					<string>http://172.20.80.51/app/bin/ibsca-dev-s.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -32,6 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
+				<string>corp.ncsoft.bnsm.dtos</string>
 				<key>bundle-version</key>
 				<string>0.7.0.4</string>
 				<key>kind</key>
@@ -39,6 +41,7 @@
 				<key>subtitle</key>
 				<string>for iOS</string>
 				<key>title</key>
+				<string>iBscA devS</string>
 			</dict>
 		</dict>
 	</array>
