@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>corp.ncsoft.bnsm.dto</string>
+				<string>com.ncsoft.bnsm</string>
 				<key>bundle-version</key>
 				<string>0.7.0.4</string>
 				<key>kind</key>
