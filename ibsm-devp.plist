@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.20.86.214/appcenter/bin/com.tencent.bnsm.qa-debug.ipa</string>
+					<string>http://172.20.86.214/appcenter/bin/ibsm-dev.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://172.20.86.214/appcenter/images/BscT-App.png</string>
+					<string>http://172.20.86.214/appcenter/images/BscA-App.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://172.20.86.214/appcenter/images/BscT-App.png</string>
+					<string>http://172.20.86.214/appcenter/images/BscA-App.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.bnsm</string>
+				<string>corp.ncsoft.bnsma.dev</string>
 				<key>bundle-version</key>
-				<string>0.7.0.3</string>
+				<string>0.7.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>for iOS</string>
 				<key>title</key>
-				<string>战斗吧剑灵qaD</string>
+				<string>BSS dev</string>
 			</dict>
 		</dict>
 	</array>
