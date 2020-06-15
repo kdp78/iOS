@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.20.86.214/appcenter/bin/imageViewer2.ipa</string>
+					<string>http://172.20.86.214/mobile/bin/imageViewer2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://172.20.86.214/appcenter/images/ImageViewer2Icon.png</string>
+					<string>http://172.20.86.214/mobile/images/ImageViewer2Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://172.20.86.214/appcenter/images/ImageViewer2Icon.png</string>
+					<string>http://172.20.86.214/mobile/images/ImageViewer2Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
